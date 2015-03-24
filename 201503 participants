@@ -3,6 +3,32 @@ prices = {
 "T-Shirt 2",
 "T-Shirt 3",
 "Gants 1",
-"Gants 1",
-"Gants 1",
-"Gants 1",}
+"Gants 2",
+"Gants 3",
+"Gants 4",
+"Gants 5",
+"Petite boite 1",
+"Petite boite 2",
+"Grosse boite 1",
+"Grosse boite 2"}
+
+
+participants ={
+"Laurent C.          ",
+"Bertrand D.         ",
+"Nicolas W.          ",
+"Clement H.          ",
+"JF V.               ",
+"Hélène R.           ",
+"Lionel G.           ",
+"Mathieu G.          ",
+"Christophe C.       ",
+"Arnaud G.           ",
+"Damien O.           ",
+"Philippe L.         ",
+"CHristophe S.       ",
+"Alain J             ",
+"Fabien W.           ",
+"Jerome M.           "
+
+}

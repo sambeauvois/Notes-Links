@@ -1,0 +1,3 @@
+event on tests : unit, acceptance, load, etc etc
+
+http://www.asp.net/signalr/overview/performance/signalr-connection-density-testing-with-crank

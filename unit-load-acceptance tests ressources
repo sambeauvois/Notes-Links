@@ -1,3 +1,7 @@
 event on tests : unit, acceptance, load, etc etc
 
 http://www.asp.net/signalr/overview/performance/signalr-connection-density-testing-with-crank
+
+
+code coverage
+http://www.dzone.com/links/r/types_of_code_coverage_examples_in_c.html

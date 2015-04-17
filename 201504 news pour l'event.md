@@ -6,6 +6,7 @@ http://www.developpez.com/actu/83135/Node-js-Tools-1-0-pour-Visual-Studio-dispon
 http://blogs.windows.com/bloggingwindows/2015/03/27/a-quick-update-on-windows-10-builds-for-phones-for-windows-insiders/
 
 c#6
+
 http://geekswithblogs.net/BlackRabbitCoder/archive/2015/04/02/c.net-little-wonders-getting-the-name-of-an-identifier.aspx
 http://dotnet.dzone.com/articles/nameof-c-6?mz=57923-dotnet
 http://www.dzone.com/links/r/best_5_c_60_language_features.html
@@ -13,10 +14,12 @@ http://codeblog.jonskeet.uk/category/cs6/
 
 
 asp.net identity
+
 http://blogs.msdn.com/b/webdev/archive/2015/04/07/asp-net-identity-2-2-1.aspx : bug fixing
 
 
 GIT : 10 years
+
 https://lostechies.com/chrismissal/2015/04/07/happy-10th-birthday-git/
 http://gitbirthday.com/
 
@@ -24,28 +27,35 @@ http://gitbirthday.com/
 ##Microsoft : 40 years
 
 misc
+
 http://compiledexperience.com/blog/posts/windows-10-live-streaming/
 
 http://compiledexperience.com/blog/posts/windows-10-c-sharp-6/
 
 ebook:
+
 http://www.telerik.com/campaigns/devcraft/developers-guide-dotnet
 
 
 sql server 2005
+
 http://blogs.microsoft.com/blog/2015/04/13/are-you-still-running-sql-server-2005-now-is-the-time-to-upgrade-to-a-modern-data-platform/
 
 April's fools: 
+
 http://thepihut.com/products/raspberry-pi-model-c
 
 
 
 appstudio news
+
 http://appstudio.windows.com/en-us/home/howto
 
 
 win 10
+
 http://www.channelregister.co.uk/2015/03/25/metro_meets_windows_10_can_microsoft_win_uap_preview/
+
 
 
 

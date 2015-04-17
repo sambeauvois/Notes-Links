@@ -3,7 +3,7 @@ http://en.wikipedia.org/wiki/C_Sharp_(programming_language)#History
 
 **1 - January 2002**
 
-*2***
+**2**
 https://msdn.microsoft.com/en-us/library/7cz8t42e(v=vs.80).aspx
 
 - Generic,

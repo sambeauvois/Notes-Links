@@ -32,6 +32,7 @@ https://msdn.microsoft.com/en-us/magazine/ff796223.aspx
 http://blogs.msdn.com/b/mvpawardprogram/archive/2012/03/26/introduction-of-new-features-in-c-5-0.aspx
 
 - Async / Await
+- Caller information (useful for logs)
 
 **6**
 https://github.com/dotnet/roslyn/wiki/Languages-features-in-C%23-6-and-VB-14

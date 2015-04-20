@@ -61,4 +61,8 @@ Virtual Desktops in Windows 10 – The Power of Windows…Multiplied (ok Linux h
 http://blogs.windows.com/bloggingwindows/2015/04/16/virtual-desktops-in-windows-10-the-power-of-windowsmultiplied/
 
 
+windows phone 8.1 update 2
+http://www.windowscentral.com/quick-tour-windows-phone-81-update-2
+
+
 

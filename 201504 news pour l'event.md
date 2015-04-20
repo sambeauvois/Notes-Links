@@ -65,4 +65,8 @@ windows phone 8.1 update 2
 http://www.windowscentral.com/quick-tour-windows-phone-81-update-2
 
 
+web design
+http://www.webdesignernews.com/
+
+
 

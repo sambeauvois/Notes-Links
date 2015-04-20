@@ -44,6 +44,7 @@ http://blogs.microsoft.com/blog/2015/04/13/are-you-still-running-sql-server-2005
 April's fools: 
 
 http://thepihut.com/products/raspberry-pi-model-c
+MS DOS on WP
 
 
 
@@ -56,6 +57,8 @@ win 10
 
 http://www.channelregister.co.uk/2015/03/25/metro_meets_windows_10_can_microsoft_win_uap_preview/
 
+Virtual Desktops in Windows 10 – The Power of Windows…Multiplied (ok Linux has it for years)
+http://blogs.windows.com/bloggingwindows/2015/04/16/virtual-desktops-in-windows-10-the-power-of-windowsmultiplied/
 
 
 

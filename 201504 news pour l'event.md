@@ -64,6 +64,7 @@ http://blogs.windows.com/bloggingwindows/2015/04/16/virtual-desktops-in-windows-
 windows phone 8.1 update 2
 http://www.windowscentral.com/quick-tour-windows-phone-81-update-2
 
+http://www.engadget.com/2015/04/16/microsoft-apps-cyanogen-android/
 
 web design
 http://www.webdesignernews.com/

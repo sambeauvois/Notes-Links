@@ -70,4 +70,5 @@ web design
 http://www.webdesignernews.com/
 
 
-
+SEO
+http://trends.levif.be/economie/high-tech/numerik/google-modifie-son-algorithme-quelles-consequences-pour-cet-armageddon-mobile/article-normal-388681.html

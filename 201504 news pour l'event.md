@@ -56,6 +56,7 @@ http://appstudio.windows.com/en-us/home/howto
 win 10
 
 http://www.channelregister.co.uk/2015/03/25/metro_meets_windows_10_can_microsoft_win_uap_preview/
+http://www.developpez.com/actu/84171/Windows-10-Microsoft-pourrait-sortir-l-OS-en-fin-juillet-selon-AMD/
 
 Virtual Desktops in Windows 10 – The Power of Windows…Multiplied (ok Linux has it for years)
 http://blogs.windows.com/bloggingwindows/2015/04/16/virtual-desktops-in-windows-10-the-power-of-windowsmultiplied/
@@ -69,6 +70,16 @@ http://www.engadget.com/2015/04/16/microsoft-apps-cyanogen-android/
 web design
 http://www.webdesignernews.com/
 
+Visual studio
+http://www.developpez.com/actu/84125/Microsoft-annonce-un-partenariat-avec-Epic-Games-Unity-et-Chukong-Technologies-pour-une-meilleure-integration-de-Visual-Studio-dans-leurs-outils/
 
 SEO
 http://trends.levif.be/economie/high-tech/numerik/google-modifie-son-algorithme-quelles-consequences-pour-cet-armageddon-mobile/article-normal-388681.html
+http://www.developpez.com/actu/84174/Moteur-Google-les-sites-web-optimises-mobiles-desormais-favorises-Google-deploie-la-mise-a-jour-mobile-friendly/
+
+google
+http://www.developpez.com/actu/84200/Google-vous-donne-la-possibilite-de-telecharger-votre-historique-de-recherches-sur-son-moteur-et-d-effacer-les-elements-de-votre-choix/
+
+
+NUI
+http://www.developpez.com/actu/84138/Microsoft-developpe-un-systeme-de-detection-de-mouvement-capable-de-reproduire-les-gestes-les-plus-complexes-des-mains-en-temps-reel/

@@ -11,3 +11,8 @@
 
 Assert with tolerance
 https://msdn.microsoft.com/en-us/library/ms243456.aspx
+
+
+##Full tests
+
+https://msdn.microsoft.com/en-us/magazine/dn973018.aspx

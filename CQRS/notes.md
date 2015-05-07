@@ -8,3 +8,9 @@ https://www.microsoftpressstore.com/articles/article.aspx?p=2248809
 http://danielwhittaker.me/2014/10/02/cqrs-step-step-guide-flow-typical-application/
 
 https://msdn.microsoft.com/en-us/magazine/dn342868.aspx
+
+
+https://lostechies.com/jimmybogard/2015/05/05/cqrs-with-mediatr-and-automapper/
+
+
+

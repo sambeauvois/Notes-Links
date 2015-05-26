@@ -237,6 +237,9 @@ stop record
 Nodes -> if like stairs -> memory leak !
 
 
+//// More
+http://peterkellner.net/2015/05/25/magic-in-chrome-javascript-debugger/
+
 ## metaprograming .NET
 
 

@@ -157,7 +157,7 @@ Twitter : @DDDBE
 Check 'front desk solution' on github : https://github.com/julielerman/TEE14Demo ?
 
 https://github.com/julielerman/DomainDrivenDesignforDatabaseDrivenMind
-
+https://msdn.microsoft.com/en-us/magazine/dn342868.aspx
 
 ##Chrome developer tools
 

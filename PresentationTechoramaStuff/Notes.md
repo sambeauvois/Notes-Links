@@ -161,6 +161,8 @@ https://msdn.microsoft.com/en-us/magazine/dn342868.aspx
 
 ##Chrome developer tools
 
+https://www.youtube.com/watch?v=X7AFl1bdigs
+
 https://developer.chrome.com/devtools/docs/tips-and-tricks#console-table
 
 - Search : css selector

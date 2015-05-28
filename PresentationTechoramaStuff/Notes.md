@@ -169,7 +169,7 @@ https://developer.chrome.com/devtools/docs/tips-and-tricks#console-table
 - Find in styles
 - Shift+Click on color selector --> Color picker on the html page
 - JS sources : ctrl + P -> open a search box
-- ctrl + shift + p -> open a search box for method search
+- ctrl + shift + F -> open a search box for method search
 - break point on function  -> link on source
 - modify code, then save to test the code
 - right-click -> local modification : chrome session actions 

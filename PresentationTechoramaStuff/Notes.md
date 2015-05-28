@@ -246,6 +246,8 @@ http://peterkellner.net/2015/05/25/magic-in-chrome-javascript-debugger/
 https://developer.chrome.com/devtools
 https://developer.chrome.com/devtools/docs/tips-and-tricks#prettyprint-javascript
 
+chrome://chrome-urls/
+
 ## metaprograming .NET
 
 

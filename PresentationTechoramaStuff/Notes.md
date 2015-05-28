@@ -39,6 +39,10 @@ Tip : Visual studio: File, open solution : select an "exe"
 See discussions for c#7 : https://github.com/dotnet/roslyn/labels/Language-C%23
 => include team's meeting minutes
 
+More :
+http://stackoverflow.com/questions/247621/what-are-the-correct-version-numbers-for-c
+
+
 ------
 
 ##Ecmascript 6

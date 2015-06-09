@@ -1,3 +1,5 @@
+! slides on onedrive
+
 ##Windows 10 apps
 
 Projet *Centenial* : MSI --> APPX

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<title>Chrome Console</title>
+<body>
+
+<h1>Check the console</h1>
+
+
+<script type="text/javascript">
+//http://stackoverflow.com/questions/7585351/testing-for-console-log-statements-in-ie
+// Avoid `console` errors in browsers that lack a console.
+(function() {
+    var method;
+    var noop = function () {};
+    var methods = [
+        'assert', 'clear', 'count', 'debug', 'dir', 'dirxml', 'error',
+        'exception', 'group', 'groupCollapsed', 'groupEnd', 'info', 'log',
+        'markTimeline', 'profile', 'profileEnd', 'table', 'time', 'timeEnd',
+        'timeStamp', 'trace', 'warn'
+    ];
+    var length = methods.length;
+    var console = (window.console = window.console || {});
+
+    while (length--) {
+        method = methods[length];
+
+        // Only stub undefined methods.
+        if (!console[method]) {
+            console[method] = noop;
+        }
+    }
+}());
+
+
+console.log("simple log");
+console.info("info text");
+console.warn("warning text");
+console.error("error text");
+//console.exception("exception");
+f1();
+
+var anArray=[
+{
+ Column1:"Text 1",
+ Column2:new Date(),
+ Column3:555,
+ Column4:"End Text"
+},
+{
+ Column1:"Text 2",
+ Column2:new Date(),
+ Column3:666,
+ Column4:"End Text"
+},
+{
+ Column1:"Text 3",
+ Column2:new Date(),
+ Column3:777,
+ Column4:"End Text"
+}];
+ 
+console.table(anArray);
+
+console.assert(1==1,"1=1");
+console.assert(1==2,"1=2");
+console.log("%cBlue!", "color: blue;font-size:55px;font-weight:bold;");
+
+console.log("array output",anArray);
+
+console.count();
+console.count();
+console.count();
+console.dir(document.location);
+console.dir(anArray);
+
+console.count();
+function f1()
+{
+	f2();
+}
+function f2(){
+	f3();
+}
+function f3(){
+	console.trace("trace");
+}
+</script>
+</body>
+</html>

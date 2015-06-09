@@ -91,3 +91,10 @@ http://www.developpez.com/actu/84138/Microsoft-developpe-un-systeme-de-detection
 Microsoft Edge : support de srcset pour responsive images  
 http://blogs.windows.com/msedgedev/2015/06/08/introducing-srcset-responsive-images-in-microsoft-edge/
 
+
+
+SqlServer 2016
+--------------
+
+temporal tables :)
+

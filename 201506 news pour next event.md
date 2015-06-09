@@ -1,3 +1,5 @@
+Depuis avril:
+-------------
 
 http://www.developpez.com/actu/83152/Microsoft-envisagerait-de-faire-tourner-les-applications-Android-sous-Windows-10-quels-impacts-sur-ses-applications-universelles/
 
@@ -83,3 +85,9 @@ http://www.developpez.com/actu/84200/Google-vous-donne-la-possibilite-de-telecha
 
 NUI
 http://www.developpez.com/actu/84138/Microsoft-developpe-un-systeme-de-detection-de-mouvement-capable-de-reproduire-les-gestes-les-plus-complexes-des-mains-en-temps-reel/
+
+
+
+Microsoft Edge : support de srcset pour responsive images  
+http://blogs.windows.com/msedgedev/2015/06/08/introducing-srcset-responsive-images-in-microsoft-edge/
+

@@ -92,6 +92,8 @@ Microsoft Edge : support de srcset pour responsive images
 http://blogs.windows.com/msedgedev/2015/06/08/introducing-srcset-responsive-images-in-microsoft-edge/
 
 
+http://www.developpez.com/actu/86356/Windows-10-les-applications-pourront-demander-l-analyse-des-contenus-pour-detecter-les-malwares-Microsoft-invite-les-developpeurs-a-supporter-AMSI/
+
 
 SqlServer 2016
 --------------

@@ -14,8 +14,12 @@ On peut avoir un store "private" pour entreprises
 
 ===> Summer 2015
 
+*==> BERTRAND*
+
 
 ##C# 6
+
+*SAM*
 
 https://github.com/dotnet/roslyn
 
@@ -48,7 +52,7 @@ http://stackoverflow.com/questions/247621/what-are-the-correct-version-numbers-f
 ------
 
 ##Ecmascript 6
-
+*Bertrand/SAM*
 Keywords and features:
 - 'let' : like 'var' but in a scope
 - const
@@ -108,7 +112,7 @@ Ecmascript 6 is now Ecmascript 2015 (future versions : 2017, 2020, ...)
 
 
 ##EF7
-
+*SAM*
 Complete rewrite
 
 1st release will be a preview (to be shipped with asp.net 5)
@@ -128,7 +132,7 @@ new :
 
 
 ##Typescript
-
+*Bertrand*
 - module-> namespace
 - class
 - interface
@@ -157,6 +161,7 @@ Twitter : @DDDBE
 'Guard.Against<ex>(condition)'
 
 ##MS BAND
+*Bertrand* => lister les capteurs, exemple de code
 
 ##DDD for DB driven mind
 
@@ -166,7 +171,7 @@ https://github.com/julielerman/DomainDrivenDesignforDatabaseDrivenMind
 https://msdn.microsoft.com/en-us/magazine/dn342868.aspx
 
 ##Chrome developer tools
-
+*SAM*
 https://www.youtube.com/watch?v=X7AFl1bdigs
 
 https://developer.chrome.com/devtools/docs/tips-and-tricks#console-table
@@ -268,6 +273,7 @@ Check reactive extentions on github.
 
 
 
-
+## IOT
+*Bertrand*
 
 

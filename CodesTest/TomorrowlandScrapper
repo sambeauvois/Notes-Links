@@ -28,6 +28,9 @@ namespace Tland
         public string Time { get; set; }
 
         public string Url { get; set; }
+
+        public DateTime StartTime { get; set; }
+        public DateTime EndTime { get; set; }
     }
 
     class Program
@@ -46,6 +49,7 @@ namespace Tland
             // stages names
             //#main-content .stage-titles .stage-logo-wrap .stage-logo
 
+            DateTime lineUpDay = new DateTime(2015, 7, 24);
 
             var mainContent = doc.DocumentNode.Descendants().FirstOrDefault(x => x.Id == "main-content");
 
@@ -90,12 +94,22 @@ namespace Tland
                     var artistLink = artist.Descendants("a").FirstOrDefault();
                     var artisttimeSlot = artist.Descendants("span").FirstOrDefault(d => d.Attributes.Contains("class") && d.Attributes["class"].Value == "time");
 
-                    currentStage.Artists.Add(new Artist
+                    var newArtist = new Artist
                     {
                         Name = XmlDecode(artistLink.GetAttributeValue("title", "NA")),
                         Url = artistLink.GetAttributeValue("href", "NA"),
-                        Time = artisttimeSlot.InnerText
-                    });
+                        Time = artisttimeSlot.InnerText,
+                    };
+
+                    string[] times = newArtist.Time.Split(new char[] { '-' });
+                    string[] startTime = times[0].Split(new char[] { ':' });
+                    string[] endTime = times[1].Split(new char[] { ':' });
+
+                    newArtist.StartTime = GetDateTime(lineUpDay, startTime);
+                    newArtist.EndTime = GetDateTime(lineUpDay, endTime);
+
+                    //x:x-x:x
+                    currentStage.Artists.Add(newArtist);
 
                     //  artistLink
 
@@ -141,15 +155,40 @@ namespace Tland
                 Console.WriteLine("{0}", s);
                 foreach (var a in s.Artists)
                 {
-                    Console.WriteLine("    {0} {1}", a.Time, a.Name);
+                    Console.WriteLine("    {0} {1}  ( {2} -> {3} )", a.Time, a.Name, a.StartTime, a.EndTime);
                 }
 
                 Console.WriteLine("");
                 Console.WriteLine("-----------");
             }
 
+
+            // next ?
+
+            Console.WriteLine("Next : ");
+            TimeZoneInfo timeZoneBrussels = TimeZoneInfo.FindSystemTimeZoneById("Central Europe Standard Time");
+            DateTime dNow = TimeZoneInfo.ConvertTime(DateTime.UtcNow, timeZoneBrussels);
+            foreach (var s in allStages)
+            {
+                var nextArtist = s.Artists.OrderBy(x => x.StartTime).FirstOrDefault();
+                var ts = nextArtist.StartTime.Subtract(dNow);
+                Console.WriteLine("{0}: {1}  ({2} : {3}d {4}h {5}m)", s.Name, nextArtist.Name, nextArtist.StartTime, ts.Days, ts.Hours, ts.Minutes);
+            }
+            
             Console.WriteLine("Fini");
             Console.ReadLine();
+        }
+
+        private static DateTime GetDateTime(DateTime lineUpDay, string[] startTime)
+        {
+
+            double hour = Convert.ToDouble(startTime[0]);
+            double minute = Convert.ToDouble(startTime[1]);
+            if (hour < 5) // matin
+            {
+                return lineUpDay.AddDays(1).AddHours(hour).AddMinutes(minute);
+            }
+            return lineUpDay.AddHours(hour).AddMinutes(minute);
         }
 
         public static string XmlDecode(string value)
@@ -162,4 +201,4 @@ namespace Tland
               .Replace("&amp;", "&"));
         }
     }
-}
+};

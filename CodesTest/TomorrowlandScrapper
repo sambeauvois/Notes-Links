@@ -1,0 +1,165 @@
+using HtmlAgilityPack;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Tland
+{
+    public class Stage
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string IconUrl { get; set; }
+        public List<Artist> Artists { get; set; }
+
+        public override string ToString()
+        {
+            return string.Format("{0} - {1}", Id, Name);
+        }
+    }
+
+
+    public class Artist
+    {
+        public string Name { get; set; }
+
+        public string Time { get; set; }
+
+        public string Url { get; set; }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            List<Stage> allStages = new List<Stage>();
+
+            //HtmlWeb web = new HtmlWeb();
+            HtmlDocument doc = new HtmlDocument(); // web.Load("http://www.tomorrowland.com/en/friday-24-july");
+            // doc.OptionDefaultStreamEncoding = Encoding.UTF8;
+            doc.LoadHtml(demodata.demo);
+            // doc.OptionDefaultStreamEncoding = Encoding.UTF8;
+
+            // stages names
+            //#main-content .stage-titles .stage-logo-wrap .stage-logo
+
+
+            var mainContent = doc.DocumentNode.Descendants().FirstOrDefault(x => x.Id == "main-content");
+
+            var stagesTitle = mainContent.Descendants("div").FirstOrDefault(d => d.Attributes.Contains("class") && d.Attributes["class"].Value.Contains("stage-titles"));
+
+            var stages = stagesTitle.Descendants("div").Where(d => d.Attributes.Contains("class") && d.Attributes["class"].Value == "stage-logo");
+
+            foreach (var stage in stages)
+            {
+                var imgStage = stage.Descendants("img").FirstOrDefault(d => d.Attributes.Contains("class") && d.Attributes["class"].Value == "stage-icon");
+
+                allStages.Add(new Stage
+                {
+                    Id = stage.GetAttributeValue("data-id", -1),
+                    Name = XmlDecode(imgStage.GetAttributeValue("title", "NA")),//HtmlEntity.DeEntitize(
+                    IconUrl = imgStage.GetAttributeValue("src", "NA")
+                });
+            }
+
+            var scheduleContainer = mainContent.Descendants("div").FirstOrDefault(d => d.Attributes.Contains("class") && d.Attributes["class"].Value.Contains("schedule-container"));
+
+            var stageSchedules = scheduleContainer.Descendants("div").Where(d => d.Attributes.Contains("class") && d.Attributes["class"].Value == "stage");
+
+            foreach (var stageschedule in stageSchedules)
+            {
+
+                int stageID = stageschedule.GetAttributeValue("data-id", -1);
+
+                Stage currentStage = allStages.FirstOrDefault(x => x.Id == stageID);
+                if (currentStage.Artists == null)
+                {
+                    currentStage.Artists = new List<Artist>();
+                }
+
+                var artistsContainer = stageschedule.Descendants("div").FirstOrDefault(d => d.Attributes.Contains("class") && d.Attributes["class"].Value.Contains("artists"));
+
+                var artists = artistsContainer.Descendants("div").Where(d => d.Attributes.Contains("class") && d.Attributes["class"].Value == "time-slot performance");
+
+
+                foreach (var artist in artists)
+                {
+                    var artistLink = artist.Descendants("a").FirstOrDefault();
+                    var artisttimeSlot = artist.Descendants("span").FirstOrDefault(d => d.Attributes.Contains("class") && d.Attributes["class"].Value == "time");
+
+                    currentStage.Artists.Add(new Artist
+                    {
+                        Name = XmlDecode(artistLink.GetAttributeValue("title", "NA")),
+                        Url = artistLink.GetAttributeValue("href", "NA"),
+                        Time = artisttimeSlot.InnerText
+                    });
+
+                    //  artistLink
+
+                    //allStages.Add(new Stage
+                    //{
+                    //    Id = ,
+                    //    Name = imgStage.GetAttributeValue("title", "NA"),//HtmlEntity.DeEntitize(
+                    //    IconUrl = imgStage.GetAttributeValue("src", "NA")
+                    //});
+                }
+
+            }
+
+
+            //foreach (HtmlNode node in doc.DocumentNode.se("div[@class='stage-logo']"))
+            //{
+            //    int stageIdentifier = node.GetAttributeValue("data-id", 0);
+            //    Console.WriteLine( stageIdentifier);
+            //}
+            // artists
+            //foreach (HtmlNode node in doc.DocumentNode.SelectNodes("#main-content .stages stage"))
+            //{
+
+            //}
+
+            //HtmlDocument doc = new HtmlDocument();
+            //doc.LoadHtml("file.htm");
+            //foreach(HtmlNode link in doc.DocumentNode.SelectNodes("//a[@href"])
+            //{
+            //   //HtmlAttribute att = link["href"];
+            //   //att.Value = FixLink(att);
+            //}
+
+            //HtmlEntity.EntityValue.Add("&amp;", 500);
+            //HtmlEntity.EntityName.Add(500,
+
+            //       Console.WriteLine(HtmlEntity.EntityName.Count);
+
+            Console.WriteLine("Stages count = {0}", allStages.Count);
+            foreach (var s in allStages)
+            {
+
+                Console.WriteLine("{0}", s);
+                foreach (var a in s.Artists)
+                {
+                    Console.WriteLine("    {0} {1}", a.Time, a.Name);
+                }
+
+                Console.WriteLine("");
+                Console.WriteLine("-----------");
+            }
+
+            Console.WriteLine("Fini");
+            Console.ReadLine();
+        }
+
+        public static string XmlDecode(string value)
+        {
+            return HtmlEntity.DeEntitize(value
+              .Replace("&lt;", "<")
+              .Replace("&gt;", ">")
+              .Replace("&quot;", "\"")
+              .Replace("&apos;", "'")
+              .Replace("&amp;", "&"));
+        }
+    }
+}

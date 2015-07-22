@@ -31,6 +31,10 @@ namespace Tland
 
         public DateTime StartTime { get; set; }
         public DateTime EndTime { get; set; }
+
+        public string ImageUrl { get; set; }
+
+        public string Description { get; set; }
     }
 
     class Program
@@ -108,6 +112,11 @@ namespace Tland
                     newArtist.StartTime = GetDateTime(lineUpDay, startTime);
                     newArtist.EndTime = GetDateTime(lineUpDay, endTime);
 
+                    // download
+                    FillArtistInfo(newArtist);
+
+
+
                     //x:x-x:x
                     currentStage.Artists.Add(newArtist);
 
@@ -174,9 +183,35 @@ namespace Tland
                 var ts = nextArtist.StartTime.Subtract(dNow);
                 Console.WriteLine("{0}: {1}  ({2} : {3}d {4}h {5}m)", s.Name, nextArtist.Name, nextArtist.StartTime, ts.Days, ts.Hours, ts.Minutes);
             }
-            
+
             Console.WriteLine("Fini");
             Console.ReadLine();
+        }
+
+        private static void FillArtistInfo(Artist newArtist)
+        {
+
+            string artistPageUrl = string.Format("http://www.tomorrowland.com/{0}", newArtist.Url);
+
+            //HtmlWeb web = new HtmlWeb();
+            HtmlDocument doc = new HtmlDocument(); // web.Load("artistPageUrl");
+            // doc.OptionDefaultStreamEncoding = Encoding.UTF8;
+            doc.LoadHtml(DemoDataArtist.Demo);
+
+            //artist-bio
+
+            var artistBio = doc.DocumentNode.Descendants("div").FirstOrDefault(d => d.Attributes.Contains("class") && d.Attributes["class"].Value == "artist-bio");
+            newArtist.Description = artistBio.InnerText;
+
+            // img
+            var artistPic = doc.DocumentNode.Descendants("div").FirstOrDefault(d => d.Attributes.Contains("class") && d.Attributes["class"].Value == "artist-pic");
+            var pic = artistPic.Descendants("img").FirstOrDefault();
+            newArtist.ImageUrl = string.Format("http://www.tomorrowland.com/{0}", pic.GetAttributeValue("src", "NA").Replace("./",""));
+
+
+
+
+
         }
 
         private static DateTime GetDateTime(DateTime lineUpDay, string[] startTime)

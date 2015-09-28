@@ -18,6 +18,8 @@ http://blogs.msdn.com/b/adonet/archive/2015/07/20/entity-framework-and-visual-st
 Windows 10
 Sortie le 29-07 : etat des lieux
 
+Appstudio propose universal apps win 10
+
 Windows phone 10
 
 ##Bootstrap 
@@ -37,6 +39,9 @@ Official Bootstrap Themes.
 
 Google new logo and brand
 
+ASP.NET Beta 7
+
+http://blogs.msdn.com/b/visualstudio/archive/2015/09/24/a-summer-of-asp-net-catching-up-with-net-web-developments.aspx?utm_content=bufferbb793
 
 
 

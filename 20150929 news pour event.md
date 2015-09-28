@@ -35,6 +35,10 @@ Official Bootstrap Themes.
 ---------------------------------------------
 
 
+Google new logo and brand
+
+
+
 
 
 

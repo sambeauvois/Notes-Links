@@ -13,4 +13,7 @@ https://msdn.microsoft.com/en-us/magazine/dn342868.aspx
 https://lostechies.com/jimmybogard/2015/05/05/cqrs-with-mediatr-and-automapper/
 
 
+https://visualstudiomagazine.com/articles/2015/09/01/domain-driven-development.aspx
+
+
 

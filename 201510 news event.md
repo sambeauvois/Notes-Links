@@ -29,7 +29,10 @@ EF
 http://blogs.msdn.com/b/adonet/archive/2015/10/15/ef7-beta-8-available.aspx
 
 
-
+MS news
+http://www.windowscentral.com/microsofts-developer-tools-head-s-soma-somasegar-leave-company-after-27-years
+http://venturebeat.com/2015/10/08/microsoft-confirms-vp-of-developer-division-somasegar-is-leaving-after-more-than-two-decades/
+http://techcrunch.com/2015/10/08/somasegar-leaves-microsoft/
 
 
 Bonus:

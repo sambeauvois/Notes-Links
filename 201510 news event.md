@@ -34,6 +34,8 @@ http://www.windowscentral.com/microsofts-developer-tools-head-s-soma-somasegar-l
 http://venturebeat.com/2015/10/08/microsoft-confirms-vp-of-developer-division-somasegar-is-leaving-after-more-than-two-decades/
 http://techcrunch.com/2015/10/08/somasegar-leaves-microsoft/
 
+Events to come
+http://blogs.msdn.com/b/visualstudio/archive/2015/10/19/microsoft-connect-2015-developer-event-set-for-november-18-19.aspx
 
 Bonus:
 https://visualstudiogallery.msdn.microsoft.com/3b64e04c-e8de-4b97-8358-06c73a97cc68

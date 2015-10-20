@@ -37,3 +37,7 @@ https://visualstudiogallery.msdn.microsoft.com/3b64e04c-e8de-4b97-8358-06c73a97c
 
 Cloudscribe
 https://github.com/joeaudette/cloudscribe
+
+Virtual Reality
+http://www.journaldugeek.com/2015/10/19/la-realite-virtuelle-par-marc-dorcel/
+

@@ -55,4 +55,5 @@ http://www.cnet.com/news/heres-the-technology-back-to-the-future-part-ii-predict
 http://www.independent.co.uk/life-style/gadgets-and-tech/features/back-to-the-future-day-what-did-the-1980s-sci-fi-classic-get-right-about-the-future-we-now-live-in-a6698396.html
 http://www.nydailynews.com/news/national/2015-predictions-back-future-2-wrong-article-1.2063197
 http://gawker.com/5667202/11-things-from-back-to-the-future-ii-that-actually-came-true-and-3-that-havent-yet
+http://www.newsweek.com/everything-back-future-ii-got-hilariously-wrong-about-2015-according-293272
 

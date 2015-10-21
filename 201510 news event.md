@@ -64,3 +64,6 @@ http://www.newsweek.com/everything-back-future-ii-got-hilariously-wrong-about-20
 http://www.vulture.com/2014/12/which-back-to-the-future-ii-tech-is-closest.html
 http://www.cnet.com/pictures/back-to-the-future-part-ii-best-tech-predictions-and-biggest-misses/3/
 
+
+# librarie qui vont bien
+https://github.com/jwagner/smartcrop.js/

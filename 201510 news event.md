@@ -64,6 +64,16 @@ http://www.newsweek.com/everything-back-future-ii-got-hilariously-wrong-about-20
 http://www.vulture.com/2014/12/which-back-to-the-future-ii-tech-is-closest.html
 http://www.cnet.com/pictures/back-to-the-future-part-ii-best-tech-predictions-and-biggest-misses/3/
 
-
+---------------------------------------------------
 # librarie qui vont bien
 https://github.com/jwagner/smartcrop.js/
+
+#VR
+http://www.journaldugeek.com/2015/10/21/ora-x-un-casque-android-completement-autonome/
+
+# freaky
+http://www.journaldugeek.com/2015/10/21/magic-leap-nous-parle-un-peu-de-sa-nouvelle-technologie-de-realite-augmentee-et-ca-promet/
+
+#bug bounty
+http://blogs.msdn.com/b/webdev/archive/2015/10/20/net-core-and-asp-net-launches-a-beta-bug-bounty-program.aspx
+screenshot this>> https://technet.microsoft.com/en-us/security/mt574248

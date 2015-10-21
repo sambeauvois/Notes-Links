@@ -77,3 +77,7 @@ http://www.journaldugeek.com/2015/10/21/magic-leap-nous-parle-un-peu-de-sa-nouve
 #bug bounty
 http://blogs.msdn.com/b/webdev/archive/2015/10/20/net-core-and-asp-net-launches-a-beta-bug-bounty-program.aspx
 screenshot this>> https://technet.microsoft.com/en-us/security/mt574248
+
+#powerbi
+jolis controles
+http://www.developpez.com/actu/91376/Power-BI-accueille-de-nouveaux-univers-graphiques-personnalisables-pour-une-meilleure-experience-de-data-visualisation/

@@ -43,8 +43,7 @@ http://claudeleloup.developpez.com/tutoriels/access/moutons/#LV-B
 #registration 
 https://www.topcoder.com/
 
-
-
+http://ux.stackexchange.com/questions/86634/banned-user-tries-to-log-in-%E2%88%92-show-a-banned-message-or-a-generic-cannot-log-y
 
 
 http://blogs.windows.com/windowsexperience/windows10devices/

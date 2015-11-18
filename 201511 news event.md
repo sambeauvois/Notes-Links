@@ -8,3 +8,5 @@ news java? -> event yajug
 events
 
 invit marche noel
+
+http://www.developpez.com/actu/92738/Microsoft-SQLite-integre-les-fonctionnalites-systeme-de-Windows-10-pour-ameliorer-l-acces-aux-donnees/

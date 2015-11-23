@@ -7,7 +7,9 @@ news java? -> event yajug
 
 events
 
-nouvelle version de asp.net et forums http://www.asp.net/
+nouvelle version de asp.net et forums http://www.asp.net/ http://forums.asp.net/t/2078239.aspx?ASP+NET+Website+Updates+November+21+2015
+
+voir section annoucements
 
 invit marche noel
 

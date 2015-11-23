@@ -7,6 +7,8 @@ news java? -> event yajug
 
 events
 
+nouvelle version de asp.net et forums http://www.asp.net/
+
 invit marche noel
 
 http://www.developpez.com/actu/92738/Microsoft-SQLite-integre-les-fonctionnalites-systeme-de-Windows-10-pour-ameliorer-l-acces-aux-donnees/

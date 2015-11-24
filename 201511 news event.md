@@ -19,3 +19,5 @@ bonus> pluralsight 6mois
 
 bonus
 http://genfu.io/(anciennement AngelaSmith) / codebabes
+
+--> Quid de faire sur le temps de midi ?

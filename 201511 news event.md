@@ -20,4 +20,7 @@ bonus> pluralsight 6mois
 bonus
 http://genfu.io/(anciennement AngelaSmith) / codebabes
 
+
+http://www.wintellect.com/devcenter/paulballard/visual-studio-code-goes-open-source-and-more-from-microsoft-connect-2015
+
 --> Quid de faire sur le temps de midi ?

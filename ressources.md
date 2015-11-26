@@ -72,3 +72,6 @@ http://answers.microsoft.com/en-us/office/forum/office_2010-access/how-to-struct
 https://zylab.wordpress.com/2010/07/20/6-practical-tips-for-designing-taxonomy/
 
 https://books.google.lu/books?id=IUsUliUIIXUC&pg=PA115&lpg=PA115&dq=database+design+for+taxonomy&source=bl&ots=Yp6RdB8QnW&sig=2N5SHQE-6127g7UrIIKMBliy4Zw&hl=en&sa=X&sqi=2&redir_esc=y#v=onepage&q=database%20design%20for%20taxonomy&f=false
+
+
+https://github.com/Genbox/Wikipedia.NET

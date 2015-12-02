@@ -75,3 +75,12 @@ https://books.google.lu/books?id=IUsUliUIIXUC&pg=PA115&lpg=PA115&dq=database+des
 
 
 https://github.com/Genbox/Wikipedia.NET
+
+
+## Libs for units
+
+http://stackoverflow.com/questions/348853/units-of-measure-in-c-sharp-almost
+http://www.cs.utexas.edu/users/novak/units95.pdf
+https://github.com/anjdreas/UnitsNet
+https://github.com/objorke/QuantityTypes
+https://physicalmeasure.codeplex.com/

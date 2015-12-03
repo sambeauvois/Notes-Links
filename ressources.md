@@ -88,3 +88,9 @@ https://github.com/anjdreas/UnitsNet
 https://github.com/objorke/QuantityTypes
 
 https://physicalmeasure.codeplex.com/
+
+## legal notes
+
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=website+Legal+Notes+generator
+http://www.iubenda.com/en
+http://www.codemag.com/Article/1511041

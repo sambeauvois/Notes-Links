@@ -94,3 +94,7 @@ https://physicalmeasure.codeplex.com/
 https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=website+Legal+Notes+generator
 http://www.iubenda.com/en
 http://www.codemag.com/Article/1511041
+
+##Design process
+
+https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85#.fzm162wrj

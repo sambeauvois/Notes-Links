@@ -100,3 +100,7 @@ http://www.codemag.com/Article/1511041
 ##Design process
 
 https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85#.fzm162wrj
+
+## controles web
+
+http://ajaxuploader.com/bootstrap-upload.htm

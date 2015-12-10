@@ -108,4 +108,8 @@ http://ajaxuploader.com/bootstrap-upload.htm
 
 ## open source forums pour integration
 
+## psychology
+
+http://www.smashingmagazine.com/2015/12/performance-matters-part-3-tolerance-management/
+
 

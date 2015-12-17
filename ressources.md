@@ -60,6 +60,8 @@ Display time in JS
 
 http://momentjs.com/
 
+http://www.highcharts.com/
+
 ##stuff
 
 https://github.com/MisterJames/BootstrappingMvc-Code

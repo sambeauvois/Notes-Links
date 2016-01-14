@@ -12,3 +12,5 @@ Bootstrap 3.3.6 released ->
 
 
 dapper? petapoco ? etc ?
+
+IE8 9 10 dead

@@ -1,5 +1,5 @@
 
-nouvele section : skynet en marche
+nouvelle section : skynet en marche
 
 http://www.clubic.com/mag/transports/actualite-787958-roborace-courses-formule-e-autonomes-2016.html
 

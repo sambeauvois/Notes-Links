@@ -1,5 +1,5 @@
 
-skynet
+nouvele section : skynet en marche
 
 http://www.clubic.com/mag/transports/actualite-787958-roborace-courses-formule-e-autonomes-2016.html
 
@@ -21,3 +21,7 @@ IE8 9 10 dead
 ## libs :
 
 https://github.com/VerbalExpressions/CSharpVerbalExpressions
+
+
+##
+http://www.alvinashcraft.com/2016/01/20/dew-drop-january-20-2016-2171/

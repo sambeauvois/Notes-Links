@@ -22,6 +22,7 @@ IE8 9 10 dead
 
 https://github.com/VerbalExpressions/CSharpVerbalExpressions
 
+##tools office tasks
 
-##
+## links
 http://www.alvinashcraft.com/2016/01/20/dew-drop-january-20-2016-2171/

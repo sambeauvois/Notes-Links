@@ -27,3 +27,7 @@ une personne à gagné à la loterie mais ne peut récupérer ses gains
 
 https://en.wikipedia.org/wiki/Advance-fee_scam
 
+https://fr.wikipedia.org/wiki/Fraude_4-1-9
+
+
+https://www.pexels.com/photo/police-money-finance-funny-33596/

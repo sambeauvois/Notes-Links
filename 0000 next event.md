@@ -17,6 +17,10 @@ dapper? petapoco ? etc ?
 
 IE8 9 10 dead
 
+## sql server 2016
+
+une bonne nouveauté sur SQL Server 2016 : 
+New string functions – STRING_SPLIT (Transact-SQL) and STRING_ESCAPE (Transact-SQL) are added. 
 
 ## libs :
 

@@ -22,6 +22,9 @@ IE8 9 10 dead
 une bonne nouveauté sur SQL Server 2016 : 
 New string functions – STRING_SPLIT (Transact-SQL) and STRING_ESCAPE (Transact-SQL) are added. 
 
+https://blogs.msdn.microsoft.com/sqlserverstorageengine/2016/03/03/upsert-json-documents-in-sql-server-2016/
+
+
 ## libs :
 
 https://github.com/VerbalExpressions/CSharpVerbalExpressions

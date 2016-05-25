@@ -14,3 +14,6 @@ https://www.nngroup.com/articles/young-adults-ux/ **
 https://www.nngroup.com/articles/usability-for-senior-citizens/ **
 
 https://www.nngroup.com/articles/definition-user-experience/ ****
+
+
+le cas des popups ! quand? quand pas? pourquoi ?

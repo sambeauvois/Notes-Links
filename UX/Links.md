@@ -16,9 +16,21 @@ https://www.nngroup.com/articles/usability-for-senior-citizens/ **
 https://www.nngroup.com/articles/definition-user-experience/ ****
 
 
-le cas des popups ! quand? quand pas? pourquoi ?
+
 
 keyboard shortcut --
 
 
 http://www.goodui.org/
+
+
+# le cas des popups ! quand? quand pas? pourquoi ?
+
+- http://diginomica.com/2015/10/06/no-pop-ups-cant-be-part-of-a-good-ux-ever/
+- https://ux.stackexchange.com/questions/40172/is-pop-up-always-bad
+- http://www.uxforthemasses.com/overlays/
+- https://www.usertesting.com/blog/2015/09/14/popups-and-user-experience/
+- http://usabilityhour.com/badux/
+- http://www.uxmatters.com/mt/archives/2014/06/what-to-do-when-your-boss-insists-that-you-use-pop-up-banner-advertising.php
+- http://ux.walkme.com/are-popups-ruining-your-user-experience/
+

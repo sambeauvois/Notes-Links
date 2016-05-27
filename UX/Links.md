@@ -22,6 +22,10 @@ http://www.goodui.org/ > exemples
 
 keyboard shortcut --
 
+- https://ux.stackexchange.com/questions/21912/usability-of-multi-level-tabs-versus-dropdown-menu-for-navigation
+- https://ux.stackexchange.com/questions/16281/elegant-simple-and-obvious-sub-tabs#comment21269_16281
+- http://uxmovement.com/navigation/why-hover-menus-do-users-more-harm-than-good/
+
 
 
 # le cas des popups ! quand? quand pas? pourquoi ?

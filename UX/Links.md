@@ -15,13 +15,13 @@ https://www.nngroup.com/articles/usability-for-senior-citizens/ **
 
 https://www.nngroup.com/articles/definition-user-experience/ ****
 
+http://www.goodui.org/ > exemples
 
 
+# navigation
 
 keyboard shortcut --
 
-
-http://www.goodui.org/
 
 
 # le cas des popups ! quand? quand pas? pourquoi ?
@@ -33,4 +33,9 @@ http://www.goodui.org/
 - http://usabilityhour.com/badux/
 - http://www.uxmatters.com/mt/archives/2014/06/what-to-do-when-your-boss-insists-that-you-use-pop-up-banner-advertising.php
 - http://ux.walkme.com/are-popups-ruining-your-user-experience/
+- 
+
+# A/B testing
+
+# canary releases
 

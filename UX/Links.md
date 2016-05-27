@@ -17,3 +17,8 @@ https://www.nngroup.com/articles/definition-user-experience/ ****
 
 
 le cas des popups ! quand? quand pas? pourquoi ?
+
+keyboard shortcut --
+
+
+http://www.goodui.org/

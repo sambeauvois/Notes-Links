@@ -26,7 +26,10 @@ keyboard shortcut --
 - https://ux.stackexchange.com/questions/16281/elegant-simple-and-obvious-sub-tabs#comment21269_16281
 - http://uxmovement.com/navigation/why-hover-menus-do-users-more-harm-than-good/
 
+# accessibility
 
+- https://una.im/a11y-for-the-masses/
+- 
 
 # le cas des popups ! quand? quand pas? pourquoi ?
 

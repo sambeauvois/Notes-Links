@@ -46,3 +46,6 @@ keyboard shortcut --
 
 # canary releases
 
+# performance is user experience
+
+

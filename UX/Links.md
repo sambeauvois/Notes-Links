@@ -49,3 +49,7 @@ keyboard shortcut --
 # performance is user experience
 
 
+
+# books
+
+- http://designingforperformance.com/

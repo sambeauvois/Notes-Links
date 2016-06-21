@@ -53,3 +53,8 @@ keyboard shortcut --
 # books
 
 - http://designingforperformance.com/
+- 
+# tools
+
+http://smashinghub.com/top-5-tools-and-resources-for-web-developers-this-2016.htm
+

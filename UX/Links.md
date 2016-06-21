@@ -58,3 +58,14 @@ keyboard shortcut --
 
 http://smashinghub.com/top-5-tools-and-resources-for-web-developers-this-2016.htm
 
+# test
+
+http://www.uxbooth.com/articles/preparing-to-test/?ref=webdesignernews.com
+
+
+
+http://www.awwwards.com/how-to-design-your-site-to-make-it-super-fast.html?ref=webdesignernews.com
+
+
+https://blog.crew.co/can-we-design-happiness/?ref=webdesignernews.com
+

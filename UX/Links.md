@@ -69,3 +69,9 @@ http://www.awwwards.com/how-to-design-your-site-to-make-it-super-fast.html?ref=w
 
 https://blog.crew.co/can-we-design-happiness/?ref=webdesignernews.com
 
+
+# card sorting
+
+
+
+

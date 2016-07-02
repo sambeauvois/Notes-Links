@@ -76,6 +76,11 @@ https://blog.crew.co/can-we-design-happiness/?ref=webdesignernews.com
 
 # card sorting
 
+# color psychology
+
+https://blog.kissmetrics.com/color-psychology/
+
+https://www.google.be/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=color%20psychology%20buying
 
 # misc
 

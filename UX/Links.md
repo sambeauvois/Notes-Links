@@ -86,3 +86,6 @@ https://www.google.be/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=colo
 
 https://webflow.com/blog/9-ways-to-improve-the-ux-of-your-website-content?ref=webdesignernews.com
 
+# naming
+
+# know your audience

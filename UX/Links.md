@@ -36,6 +36,8 @@ https://www.google.lu/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=&url=http%3
 
 http://www.stephendale.com/2011/01/31/the-knowledge-hub-and-user-experience-ux-3/
 
+http://www.uxherocomics.com/
+
 # navigation
 
 keyboard shortcut --
@@ -108,4 +110,8 @@ https://webflow.com/blog/9-ways-to-improve-the-ux-of-your-website-content?ref=we
 
 http://www.infoworld.com/article/3039726/web-development/ux-and-ui-whats-ketchup-got-to-do-with-it.html
 http://www.measuringu.com/blog/evaluating-ux.php
+
+# references
+
+Don Norman, Steve Kruug
 

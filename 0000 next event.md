@@ -36,3 +36,8 @@ http://www.alvinashcraft.com/2016/01/20/dew-drop-january-20-2016-2171/
 
 
 http://up-for-grabs.net/#/
+
+
+.core
+
+https://blogs.msdn.microsoft.com/webdev/2016/06/27/announcing-asp-net-core-1-0/

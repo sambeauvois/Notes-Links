@@ -28,6 +28,14 @@ http://1stwebdesigner.com/best-ux-design-tutorials/
 
 https://www.google.lu/url?sa=t&rct=j&q=&esrc=s&source=web&cd=21&ved=0ahUKEwjZ27vji9zNAhUKtBoKHcNFDBUQFgiEATAU&url=https%3A%2F%2Fwww.usability.gov%2Fwhat-and-why%2Fuser-experience.html&usg=AFQjCNGoSiJaoJVifA8A1Dy7c8vHrUYSFQ&sig2=38HtIPWP2rgb1T-Dn30YUw&bvm=bv.126130881,d.ZGg&cad=rja
 
+https://www.google.lu/imgres?imgurl=http%3A%2F%2Fsteve-dale.net%2Fwp-content%2Fuploads%2F2013%2F11%2Fsad-UX-happy1.jpg&imgrefurl=http%3A%2F%2Fwww.stephendale.com%2F2011%2F01%2F31%2Fthe-knowledge-hub-and-user-experience-ux-3%2F&docid=Mh2cJHmV_eMrTM&tbnid=lW4IYqCZGigmvM%3A&w=500&h=500&safe=active&bih=1075&biw=1920&ved=0ahUKEwjMjM-BjNzNAhXLCsAKHS7lCr0QxiAIAg&iact=c&ictx=1
+
+
+https://www.google.lu/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=&url=http%3A%2F%2Fwww.slideshare.net%2Fdjc1805%2Fwhat-is-ux-14166125&psig=AFQjCNE0Htrg5JxjnbDcP65ynuYl8UrllA&ust=1467800148352162&cad=rja
+
+
+http://www.stephendale.com/2011/01/31/the-knowledge-hub-and-user-experience-ux-3/
+
 # navigation
 
 keyboard shortcut --

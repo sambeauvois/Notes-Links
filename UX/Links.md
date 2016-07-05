@@ -22,6 +22,9 @@ https://www.nngroup.com/articles/definition-user-experience/ ****
 http://www.goodui.org/ > exemples
 
 
+http://1stwebdesigner.com/best-ux-design-tutorials/
+
+
 # navigation
 
 keyboard shortcut --
@@ -89,3 +92,9 @@ https://webflow.com/blog/9-ways-to-improve-the-ux-of-your-website-content?ref=we
 # naming
 
 # know your audience
+
+# pics
+
+http://www.infoworld.com/article/3039726/web-development/ux-and-ui-whats-ketchup-got-to-do-with-it.html
+http://www.measuringu.com/blog/evaluating-ux.php
+

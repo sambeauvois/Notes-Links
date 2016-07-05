@@ -61,6 +61,16 @@ keyboard shortcut --
 - https://una.im/a11y-for-the-masses/
 - 
 
+# icons
+
+icons for buttons 
+
+# forms
+
+Labels  - placeholder - ...
+
+reading flow --  (rtl case)
+
 # le cas des popups ! quand? quand pas? pourquoi ?
 
 - http://diginomica.com/2015/10/06/no-pop-ups-cant-be-part-of-a-good-ux-ever/
@@ -113,6 +123,10 @@ https://www.google.be/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=colo
 https://webflow.com/blog/9-ways-to-improve-the-ux-of-your-website-content?ref=webdesignernews.com
 
 # naming
+ubiquitous language
+http://martinfowler.com/bliki/UbiquitousLanguage.html
+
+
 
 # know your audience
 user research
@@ -123,6 +137,8 @@ http://www.uxdrinkinggame.com/top/funny/
 -> &ref=logo ...
 
 # pics
+
+
 
 http://www.infoworld.com/article/3039726/web-development/ux-and-ui-whats-ketchup-got-to-do-with-it.html
 http://www.measuringu.com/blog/evaluating-ux.php

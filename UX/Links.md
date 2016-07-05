@@ -112,6 +112,9 @@ https://webflow.com/blog/9-ways-to-improve-the-ux-of-your-website-content?ref=we
 
 # know your audience
 
+# metrics
+-> &ref=logo ...
+
 # pics
 
 http://www.infoworld.com/article/3039726/web-development/ux-and-ui-whats-ketchup-got-to-do-with-it.html

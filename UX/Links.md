@@ -111,6 +111,14 @@ https://webflow.com/blog/9-ways-to-improve-the-ux-of-your-website-content?ref=we
 http://www.infoworld.com/article/3039726/web-development/ux-and-ui-whats-ketchup-got-to-do-with-it.html
 http://www.measuringu.com/blog/evaluating-ux.php
 
+#comics
+
+https://talirsux.wordpress.com/2012/03/23/10-ux-comic/
+
+http://www.almostexact.com/ux-comics/
+
+http://www.uxherocomics.com/
+
 # references
 
 Don Norman, Steve Kruug

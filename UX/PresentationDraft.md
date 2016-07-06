@@ -29,3 +29,6 @@ The UI is the way a person interact with a product, and the product is not alway
 What is UX Design ? - Well, I think it’s important to start by saying there’s no commonly accepted definition.
 
 ' The goal of UX design in business is to “improve customer satisfaction and loyalty through the utility, ease of use, and pleasure provided in the interaction with a product.
+
+
+---http://iwc.oxfordjournals.org/content/23/5/473.full

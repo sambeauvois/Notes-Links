@@ -133,8 +133,16 @@ user research
 
 http://www.uxdrinkinggame.com/top/funny/
 
+
+
 # metrics
 -> &ref=logo ...
+
+data is always needed, do not assume that xxx
+
+tools: google analytics > user behavior
+...
+
 
 # pics
 

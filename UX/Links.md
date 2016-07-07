@@ -169,3 +169,7 @@ http://www.uxherocomics.com/
 
 Don Norman, Steve Kruug
 
+# brand
+
+https://www.nngroup.com/articles/brand-experience-ux/
+

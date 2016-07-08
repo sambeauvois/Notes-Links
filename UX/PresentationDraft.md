@@ -6,6 +6,7 @@ First things first : UX !== UI !
 UI is part of UX, as Usability  and other stuff are
 
 http://www.webdesignerdepot.com/2012/06/ui-vs-ux-whats-the-difference/
+https://www.nngroup.com/articles/definition-user-experience/
 
 ## A few distinctions:
 

@@ -62,18 +62,70 @@ Most of the icons we are used to see are coming from an initial set from Susan K
 
 What is the meaning of a floppy-disk icon today ? http://www.ohgizmo.com/2015/05/27/someone-3d-printed-a-save-button/
 
+### Actions
+
+Pick your works carrefully.
+
 For a button: always use a meaningful label.
 
 ## Controls
 
-### label and inputs
+### Navigation
+
+Hyperlinks should look like hyperlinks
+
+Title on links https://www.nngroup.com/articles/title-attribute/
+
+
+
+
+### Inputs - forms
+
+#### label and inputs
 
 Always use a label
-
-(example with textplaceholders)
+Label on top (-- https://uxdesign.cc/design-better-forms-96fadca0f49c)
+(example with placeholders https://www.nngroup.com/articles/form-design-placeholders/)
 
 Always use the 'for' attribute
 
+#### Dropdownlist or radio-buttons?
+
+https://uxdesign.cc/design-better-forms-96fadca0f49c
+
+#### Forms
+Forms should be one column but "it depends"
+User reading/writing flow
+'tab' order
+
+
+
+# The context
+
+# Mobile app case
+ Luke 
+
+
+# The audience
+
+## ethnicity, culture, age,
+
+
+
+
+
+
+
+
+
+# References
+
+- http://www.webdesignernews.com/category/ux-usability
+- https://www.nngroup.com/
+- Luke Wrobl
+- Don Norman
+- Steve Kruug
+- 
 
 
 

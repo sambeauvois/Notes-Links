@@ -55,6 +55,9 @@ Website :
 - logo top left == home page
 - 
 
+A basic control should behave as expected. 
+
+The reaction to an action should be visible 
 
 ## Icons
 
@@ -117,10 +120,17 @@ Specify errors inline
 
 ## ethnicity, culture, age,
 
+# UX is empathy
+
+## don't make it the user problem
+-- https://www.shopify.com/partners/blog/the-seven-deadly-sins-of-user-experience-design
 
 
 
 
+# Speed is part of the UX ... in one way or the other ...
+
+https://www.fastcodesign.com/3061519/evidence/the-ux-secret-that-will-ruin-apps-for-you
 
 
 

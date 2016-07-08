@@ -98,6 +98,13 @@ Forms should be one column but "it depends"
 User reading/writing flow
 'tab' order
 
+#### Errors
+
+Specify errors inline
+
+#### optional vs required fields
+
+
 
 
 # The context
@@ -128,6 +135,8 @@ User reading/writing flow
 - 
 
 
+
+https://www.shopify.com/partners/blog/the-seven-deadly-sins-of-user-experience-design
 
 
 

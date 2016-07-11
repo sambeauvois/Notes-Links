@@ -173,3 +173,5 @@ https://www.shopify.com/partners/blog/the-seven-deadly-sins-of-user-experience-d
 
 who is part of the ux -> you are as a dev
 
+
+http://www.lukew.com/ff/entry.asp?1952

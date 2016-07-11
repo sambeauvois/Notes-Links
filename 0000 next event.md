@@ -46,6 +46,7 @@ https://blogs.msdn.microsoft.com/dotnet/
 vs preview 3
 
 Lets' encrypt
+http://www.commitstrip.com/en/2016/06/13/the-end-of-an-expensive-era/
 
 
 https://www.reddit.com/r/dotnet

@@ -52,3 +52,5 @@ https://www.reddit.com/r/dotnet
 
 
 windows 10 anniversary
+
+http://www.clubic.com/application-web/actualite-811628-microsoft-cap-alternative-ifttt.html

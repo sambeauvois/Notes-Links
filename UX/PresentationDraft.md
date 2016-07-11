@@ -151,6 +151,9 @@ Card sorting
 
 Analytics
 
+- I measurded it!
+- Ok!
+
 # References
 
 - http://www.webdesignernews.com/category/ux-usability

@@ -163,5 +163,5 @@ Analytics
 https://www.shopify.com/partners/blog/the-seven-deadly-sins-of-user-experience-design
 
 
-
+who is part of the ux -> you are as a dev
 

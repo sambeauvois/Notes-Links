@@ -56,3 +56,5 @@ windows 10 anniversary
 http://www.clubic.com/application-web/actualite-811628-microsoft-cap-alternative-ifttt.html
 
 http://www.clubic.com/mag/transports/actualite-811056-tesla-victime-premier-accident-pilotage-auto-regardait-dvd.html
+
+http://www.windowscentral.com/microsoft-launches-third-build-visual-studio-15-preview

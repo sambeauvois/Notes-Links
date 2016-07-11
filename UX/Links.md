@@ -173,3 +173,10 @@ Don Norman, Steve Kruug
 
 https://www.nngroup.com/articles/brand-experience-ux/
 
+
+# misc
+
+startupvitamins
+
+https://media.licdn.com/media-proxy/ext?w=531&h=400&f=n&hash=Bfx3hhUV1hTLXv%2Bjxyu3wghpMtk%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWi6cMOLL7HypEBFeiQBjQA1Luq1STbkRo6_eNu6Lohz3pHlLZX5agYUbhl4j3lK6w 
+

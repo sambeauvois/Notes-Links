@@ -125,6 +125,10 @@ http://www.lukew.com/ff/entry.asp?1945
 
 ## ethnicity, culture, age,
 
+mesurs sur un poteau
+
+reecriture d'une app > patterns
+
 # UX is empathy
 
 ## don't make it the user problem

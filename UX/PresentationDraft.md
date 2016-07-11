@@ -154,11 +154,14 @@ Analytics
 - I measurded it!
 - Ok!
 
+# technology
+http://www.lukew.com/ff/entry.asp?1954
+
 # References
 
 - http://www.webdesignernews.com/category/ux-usability
 - https://www.nngroup.com/
-- Luke Wrobl
+- Luke Wroblewski  http://www.lukew.com/
 - Don Norman
 - Steve Kruug
 - 

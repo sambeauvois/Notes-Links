@@ -111,6 +111,8 @@ Specify errors inline
 #### optional vs required fields
 
 
+# obvious always win
+http://www.lukew.com/ff/entry.asp?1945
 
 
 # The context

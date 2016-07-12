@@ -43,6 +43,10 @@ http://up-for-grabs.net/#/
 https://blogs.msdn.microsoft.com/webdev/2016/06/27/announcing-asp-net-core-1-0/
 https://blogs.msdn.microsoft.com/dotnet/
 
+https://docs.microsoft.com/teamblog/introducing-net-core-docs/
+
+
+
 vs preview 3
 
 Lets' encrypt

@@ -61,3 +61,6 @@ http://www.clubic.com/mag/transports/actualite-811056-tesla-victime-premier-acci
 http://www.windowscentral.com/microsoft-launches-third-build-visual-studio-15-preview
 
 http://www.clubic.com/application-mobile/actualite-811674-microsoft-sprightly-flyers-brochures-crees-smartphone.html
+
+https://blogs.msdn.microsoft.com/visualstudio/2016/07/07/visual-studio-15-preview-3/
+

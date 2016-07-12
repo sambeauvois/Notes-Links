@@ -68,3 +68,6 @@ http://www.clubic.com/application-mobile/actualite-811674-microsoft-sprightly-fl
 
 https://blogs.msdn.microsoft.com/visualstudio/2016/07/07/visual-studio-15-preview-3/
 
+
+https://lostechies.com/jimmybogard/2016/07/07/automapper-5-0-released/
+

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  
+</head>
+<body>
+<button onclick="checkthebox(2)">check 2</button> <button onclick="uncheckthebox(2)">check 2</button>
+  <div id="checkbox-container"></div>
+  <script>
+  
+  function checkthebox(boxvalue)
+  {
+	var checkbox = document.querySelector("#checkbox-container input[value='" + boxvalue + "']");
+	if (checkbox) {
+		checkbox.checked = true;
+	}
+  } 
+  
+  function uncheckthebox(boxvalue)
+  {
+	var checkbox = document.querySelector("#checkbox-container input[value='" + boxvalue + "']");
+	if (checkbox) {
+		checkbox.checked = false;
+	}
+  }
+  
+  
+  function buildCheckboxList(jsonArray, containerId) {
+  var container = document.getElementById(containerId);
+
+  for (var i = 0; i < jsonArray.length; i++) {
+    var checkbox = document.createElement("input");
+    checkbox.type = "checkbox";
+    checkbox.name = jsonArray[i].value;
+    checkbox.value = jsonArray[i].value;
+	checkbox.onclick = function() {
+		console.log("click "+ this.value);
+	};
+
+    var label = document.createElement("label");
+	label.appendChild(checkbox);
+    label.appendChild(document.createTextNode(jsonArray[i].text));
+
+    var listItem = document.createElement("div");
+	listItem.classList.add("form-check");
+   // listItem.appendChild(checkbox);
+    listItem.appendChild(label);
+
+    container.appendChild(listItem);
+  }
+}
+
+var jsonArray = [
+  {value: "1", text: "Checkbox 1"},
+  {value: "2", text: "Checkbox 2"},
+  {value: "3", text: "Checkbox 3"}
+];
+
+buildCheckboxList(jsonArray, "checkbox-container");
+  </script>
+</body>
+</html>
